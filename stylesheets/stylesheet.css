@@ -221,13 +221,12 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
+  text-align: center;
   margin-top: 2rem;
   padding-top: 2rem;
   border-top: solid 1px #eff0f1; }
 
 .site-footer-credits {
-  margin: 0 auto;
-  text-align: center;
   color: #819198; }
 
 @media screen and (min-width: 64em) {
