@@ -221,13 +221,9 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  margin: 2rem auto;
-  padding-top: 2rem;
+  margin-top: 2rem;
+  padding: 2rem auto;
   border-top: solid 1px #eff0f1; }
-
-.site-footer-owner {
-  display: block;
-  font-weight: bold; }
 
 .site-footer-credits {
   margin:0 auto;
